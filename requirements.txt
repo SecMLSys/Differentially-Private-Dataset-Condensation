@@ -1,0 +1,5 @@
+numpy==1.19.2
+scipy==1.5.2
+torch==1.11.0
+torchvision==0.12.0
+setgpu==0.0.7
